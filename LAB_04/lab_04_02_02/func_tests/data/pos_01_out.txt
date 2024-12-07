@@ -1,0 +1,3 @@
+wind yes
+snow yes
+jeans yes
